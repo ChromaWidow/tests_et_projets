@@ -1,0 +1,14 @@
+<parc_machines>
+  <machine>
+    <id>M-001</id><type>serveur</type><puissance>450</puissance><site>Castres</site>
+  </machine>
+  <machine>
+    <id>M-002</id><type>switch</type><puissance>120</puissance><site>Albi</site>
+  </machine>
+  <machine>
+    <id>M-003</id><type>routeur</type><puissance>200</puissance><site>Toulouse</site>
+  </machine>
+  <machine>
+    <id>M-004</id><type>serveur</type><puissance>500</puissance><site>Castres</site>
+  </machine>
+</parc_machines>

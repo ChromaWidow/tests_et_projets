@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<parc_machines><machine>
+    <id>M-001</id><type>serveur</type><puissance>450</puissance><site>Castres</site>
+  </machine>
+  <machine>
+    <id>M-004</id><type>serveur</type><puissance>500</puissance><site>Castres</site>
+  </machine>
+</parc_machines>

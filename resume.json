@@ -1,0 +1,17 @@
+[
+  {
+    "id": "ST-01",
+    "ville": "Castres",
+    "t_moy": 19.57
+  },
+  {
+    "id": "ST-02",
+    "ville": "Albi",
+    "t_moy": 22.13
+  },
+  {
+    "id": "ST-03",
+    "ville": "Toulouse",
+    "t_moy": 18.0
+  }
+]

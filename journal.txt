@@ -1,0 +1,5 @@
+time=08:12 user=alice msg=Connexion ok
+time=08:15 user=bob msg=Erreur mineure
+time=08:17 user=alice msg=Upload termine
+time=08:30 user=carol msg=Connexion ok
+time=08:45 user=bob msg=Reprise service
